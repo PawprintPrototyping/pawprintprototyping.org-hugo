@@ -60,7 +60,7 @@ email = "info [at] pawprintprototyping [dot] org"
 location = "545 Aldo Ave #24, Santa Clara, CA 95054"
 phone = "(669) 696-7297"
 # contact form action
-contact_form_action = "#" # contact form works with : https://formspree.io
+contact_form_action = "https://formspree.io/f/mpzorqev" # contact form works with : https://formspree.io
 # multi-author support (if set to true, you must use an Array in the author field)
 multi_author = false
 
@@ -89,7 +89,7 @@ languageCode = "en-us"
 contentDir = "content/english"
 weight = 1
 # copyright
-copyright = "Copyright &copy; 2020 Pawprint Prototyping | Some Rights Reserved"
+copyright = "Copyright &copy; 2020 Pawprint Prototyping | [A Totally Legit Venture](https://totallylegit.agency) | Some Rights Reserved"
 
 
 ######################### english navigation #############################
@@ -99,10 +99,10 @@ name = "Home"
 URL = "/"
 weight = 1
 
-[[Languages.en.menu.main]]
-name = "About"
-URL = "about"
-weight = 2
+#[[Languages.en.menu.main]]
+#name = "About"
+#URL = "about"
+#weight = 2
 
 #[[Languages.en.menu.main]]
 #name = "Project"
@@ -114,25 +114,25 @@ weight = 2
 #URL = "service"
 #weight = 4
 
-[[Languages.en.menu.main]]
-name = "Blog"
-URL = "blog"
-weight = 5
+#[[Languages.en.menu.main]]
+#name = "Blog"
+#URL = "blog"
+#weight = 5
 
-[[Languages.en.menu.main]]
-weight = 6
-name = "Pages"
-hasChildren = true
-
-  [[Languages.en.menu.main]]
-  parent = "Pages"
-  name = "FAQ"
-  URL = "faq"
-
-  #[[Languages.en.menu.main]]
-  #parent = "Pages"
-  #name = "Pricing"
-  #URL = "pricing"
+#[[Languages.en.menu.main]]
+#weight = 6
+#name = "Pages"
+#hasChildren = true
+#
+#  [[Languages.en.menu.main]]
+#  parent = "Pages"
+#  name = "FAQ"
+#  URL = "faq"
+#
+#  #[[Languages.en.menu.main]]
+#  #parent = "Pages"
+#  #name = "Pricing"
+#  #URL = "pricing"
   
 [[Languages.en.menu.main]]
 name = "Contact"
@@ -141,10 +141,10 @@ weight = 7
 
 
 # footer menu
-[[Languages.en.menu.footer]]
-name = "About"
-URL = "about"
-weight = 1
+#[[Languages.en.menu.footer]]
+#name = "About"
+#URL = "about"
+#weight = 1
 
 #[[Languages.en.menu.footer]]
 #name = "Project"
@@ -161,13 +161,13 @@ weight = 1
 #URL = "pricing"
 #weight = 4
 
-[[Languages.en.menu.footer]]
-name = "FAQ"
-URL = "faq"
-weight = 5
+#[[Languages.en.menu.footer]]
+#name = "FAQ"
+#URL = "faq"
+#weight = 5
 
 [[Languages.en.menu.footer]]
-name = "Contact"
+name = "Contact Us"
 URL = "contact"
 weight = 6
 
