@@ -89,7 +89,10 @@ languageCode = "en-us"
 contentDir = "content/english"
 weight = 1
 # copyright
-copyright = "Copyright &copy; 2021 Pawprint Prototyping | [A Totally Legit Venture](https://totallylegit.agency) | Some Rights Reserved"
+copyright = """\
+Copyright &copy; 2022 Pawprint Prototyping | [A Totally Legit Venture](https://totallylegit.agency) | Some Rights Reserved<br>
+Pawprint Prototyping is a registered California 501(c)(3) non-profit.  EIN: 84-4428024
+"""
 
 
 ######################### english navigation #############################
