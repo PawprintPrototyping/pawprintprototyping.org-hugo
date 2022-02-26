@@ -142,6 +142,10 @@ name = "Contact"
 URL = "contact"
 weight = 7
 
+[[Languages.en.menu.main]]
+name = "Bylaws"
+URL = "https://docs.google.com/document/d/1k1EcHWdZbkw0bJZg_DQqPdGXHzXoshHYoKrdbZKmtvQ"
+weight = 8
 
 # footer menu
 #[[Languages.en.menu.footer]]
