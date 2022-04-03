@@ -60,10 +60,13 @@ cta:
   title : "Become A Member"
   content : "Like what we do? We'd love to have you onboard! 
             <br><br>
-            <em>Due to
-            the COVID-19 pandemic, public nights and applications for 
-            membership are currently paused. Please email us through 
-            our contact page, and we'll reach out as soon as we're able.</em>"
+            <em>We accept membership applications at our general body 
+            meetings, which are on the fourth Friday of each month at 
+            7pm. These meetings are open to all, even if you're just 
+            curious! 
+            <br><br>
+            Membership dues are $100/mo and include 24/7 access to our 
+            space and tools.  </em>"
   button:
     enable : true
     label : "Contact Us"
