@@ -96,7 +96,7 @@ funfacts:
     # funfacts item loop
     - icon : "ion-ios-wineglass-outline" #ionicon pack v2 : https://ionicons.com/v2/
       name : "Bottles of Champagne Sabered"
-      count : "5"
+      count : "6"
 
   testimonial_slider:
     # testimonial item loop
