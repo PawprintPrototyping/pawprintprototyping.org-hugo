@@ -149,7 +149,7 @@ weight = 8
 
 [[Languages.en.menu.main]]
 name = "Calendar"
-URL = "calendar"
+URL = "/pages/calendar"
 weight = 9
 
 # footer menu
