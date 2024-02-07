@@ -18,16 +18,15 @@ about:
   enable : true
   title : "About Us"
   description : "A community geared towards hacking things better"
-  content : "Pawprint Prototyping is a hackerspace, a place in which 
-            people with an interest in computing or technology can 
-            gather to work on projects while sharing ideas, equipment, 
-            and knowledge. We're a registered 501(c)3 non-profit with 
-            a mission geared towards fostering the local hacker 
-            community and creative endeavors at large. 
+  content : "Pawprint Prototyping is a hackerspace, a place in which
+            people with an interest in computing or technology can
+            gather to work on projects while sharing ideas, equipment,
+            and knowledge. We're a registered 501(c)3 non-profit with
+            a mission geared towards fostering the local hacker
+            community and creative endeavors at large.
             <br>
             <br>
             <div class='section-title'>
-            <h2>telegram grouup</h2>
             </div>"
   image : "images/wrapper-img.png"
 
@@ -38,14 +37,14 @@ portfolio:
   bg_image : "images/featue-bg.jpg"
   title : "OUR PROJECTS"
   content : "
-            All members of Pawprint Prototyping have access to our 
-            wide variety of tools for use in whatever project their 
-            heart desires. 
-            
-            
-            From woodworking, to electronics, to 
-            automotive repair with this kind of power at your 
-            fingertips, the sky is the limit! Our tool catalogue 
+            All members of Pawprint Prototyping have access to our
+            wide variety of tools for use in whatever project their
+            heart desires.
+
+
+            From woodworking, to electronics, to
+            automotive repair with this kind of power at your
+            fingertips, the sky is the limit! Our tool catalogue
             only continues to grow, as does the diversity of our
             members' creations.
             "
@@ -66,14 +65,14 @@ cta:
   enable : true
   bg_image : "images/call-to-action-bg.jpg"
   title : "Become A Member"
-  content : "Like what we do? We'd love to have you onboard! 
+  content : "Like what we do? We'd love to have you onboard!
             <br><br>
-            <em>We accept membership applications at our general body 
-            meetings, which can be found on our <a style='color:lightblue;' href='/pages/calendar/'>calendar</a>. 
-            These meetings are open to all, even if you're just 
-            curious! 
+            <em>We accept membership applications at our general body
+            meetings, which can be found on our <a style='color:lightblue;' href='/pages/calendar/'>calendar</a>.
+            These meetings are open to all, even if you're just
+            curious!
             <br><br>
-            Membership dues are $100/mo and include 24/7 access to our 
+            Membership dues are $100/mo and include 24/7 access to our
             space and tools.  </em>"
   button:
     enable : true
@@ -90,17 +89,17 @@ funfacts:
     - icon : "ion-ios-lightbulb-outline" #ionicon pack v2 : https://ionicons.com/v2/
       name : "Ideas we've had"
       count : "103"
-      
+
     # funfacts item loop
     - icon : "ion-hammer" #ionicon pack v2 : https://ionicons.com/v2/
       name : "Trips to Home Depot"
       count : "121"
-      
+
     # funfacts item loop
     - icon : "ion-ios-cart-outline" #ionicon pack v2 : https://ionicons.com/v2/
       name : "Trips to Costco"
       count : "45"
-      
+
     # funfacts item loop
     - icon : "ion-ios-wineglass-outline" #ionicon pack v2 : https://ionicons.com/v2/
       name : "Bottles of Champagne Sabered"
@@ -109,12 +108,16 @@ funfacts:
   testimonial_slider:
     # testimonial item loop
     - name : "Syber"
-      image : "images/clients/avater-1.jpg"
+      image : "images/clients/syber.jpg"
       designation : "Senior Blueberry"
       content : "Woah"
-                      
-    # testimonial item loop
+
     - name : "Bread"
-      image : "images/clients/avater-2.jpg"
+      image : "images/clients/bread.jpg"
       designation : "No really that's his name"
-      content : "⭐️⭐️⭐️⭐️⭐️" 
+      content : "⭐️⭐️⭐️⭐️⭐️"
+
+    - name: "NIC"
+      image: "images/clients/nic.jpg"
+      designation: "Local Guide"
+      content: "The payphone works!"

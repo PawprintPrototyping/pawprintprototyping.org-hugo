@@ -26,6 +26,8 @@ link = "plugins/Ionicons/css/ionicons.min.css"
 link = "plugins/magnific-popup/magnific-popup.css"
 [[params.plugins.css]]
 link = "plugins/slick/slick.css"
+[[params.plugins.css]]
+link = "plugins/spacestatus/spacestatus.css"
 
 # JS Plugins
 [[params.plugins.js]]
@@ -40,6 +42,8 @@ link = "plugins/magnific-popup/jquery.magnific-popup.min.js"
 link = "plugins/shuffle/shuffle.min.js"
 [[params.plugins.js]]
 link = "plugins/google-map/gmap.js"
+[[params.plugins.js]]
+link = "plugins/spacestatus/spacestatus.js"
 
 
 ############################### widgets #################################
@@ -52,7 +56,7 @@ sidebar = ["recent_posts", "taxonomy_category", "taxonomy_tags"]
 [params]
 logo = "images/logo.png"
 # Meta data
-description = "This is meta description"
+description = "Pawprint Prototyping is a non-profit hackerspace in Santa Clara"
 author = "Pawprint Prototyping"
 # Contact Information
 mobile = "(669) 696-7297"
@@ -79,8 +83,8 @@ link = "contact"
 [params.gmap]
 enable = false
 gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
-map_latitude = "51.5223477"
-map_longitude = "-0.1622023"
+map_latitude = "37.385768"
+map_longitude = "-121.9487897"
 map_marker = "images/marker.png"
 
 [Languages.en]
@@ -90,7 +94,7 @@ contentDir = "content/english"
 weight = 1
 # copyright
 copyright = """\
-Copyright &copy; 2023 Pawprint Prototyping | [A Totally Legit Venture](https://totallylegit.agency) | Some Rights Reserved<br>
+Copyright &copy; 2024 Pawprint Prototyping | [A Totally Legit Venture](https://totallylegit.agency) | Some Rights Reserved<br>
 Pawprint Prototyping is a registered California 501(c)(3) non-profit.  EIN: 84-4428024
 """
 
@@ -102,20 +106,20 @@ name = "Home"
 URL = "/"
 weight = 1
 
-#[[Languages.en.menu.main]]
-#name = "About"
-#URL = "about"
-#weight = 2
+[[Languages.en.menu.main]]
+name = "Calendar"
+URL = "/pages/calendar"
+weight = 2
 
-#[[Languages.en.menu.main]]
-#name = "Project"
-#URL = "project"
-#weight = 3
+[[Languages.en.menu.main]]
+name = "Donate"
+URL = "https://www.paypal.com/donate/?hosted_button_id=KHRVZ4QL8BGF8"
+weight = 3
 
-#[[Languages.en.menu.main]]
-#name = "Service"
-#URL = "service"
-#weight = 4
+[[Languages.en.menu.main]]
+name = "Wiki"
+URL = "https://wiki.pawprint.space/"
+weight = 4
 
 #[[Languages.en.menu.main]]
 #name = "Blog"
@@ -136,21 +140,25 @@ weight = 1
 #  #parent = "Pages"
 #  #name = "Pricing"
 #  #URL = "pricing"
-  
-[[Languages.en.menu.main]]
-name = "Contact"
-URL = "contact"
-weight = 7
 
 [[Languages.en.menu.main]]
 name = "Bylaws"
 URL = "https://docs.google.com/document/d/e/2PACX-1vQey0X8PKE7g2b4NsSe7g2rSIxafAu0_vPJz4XHGAqJfV-Tm3pyX9J7ysbM9aepH8vc06TMxl00Epk4/pub"
-weight = 8
+weight = 7
+
+
 
 [[Languages.en.menu.main]]
-name = "Calendar"
-URL = "/pages/calendar"
+name = "Contact"
+URL = "contact"
 weight = 9
+
+[[Languages.en.menu.main]]
+name = "Status"
+id = "spaceswitch"
+pre = '<span id="spacestatus" class=""></i></span>'
+URL = "https://wiki.pawprint.space/space_switch/"
+weight = 10
 
 # footer menu
 #[[Languages.en.menu.footer]]
@@ -182,4 +190,3 @@ weight = 9
 name = "Contact Us"
 URL = "contact"
 weight = 6
-

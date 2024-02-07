@@ -1,0 +1,16 @@
+li:has(> #spacestatus){
+    background-color: gray;
+}
+
+li:has(> #spacestatus.ss-open){
+    background-color: green;
+}
+
+li:has(> #spacestatus.ss-closed){
+    background-color: red;
+}
+
+span#spacestatus + a {
+    color: white;
+}
+
