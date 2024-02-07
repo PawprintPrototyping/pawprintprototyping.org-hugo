@@ -38,10 +38,12 @@ featured_service:
       
 ############################# Service ###############################
 service:
-  enable : true
-  title : "Our Services"
-  description : "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, <br> there live the
-          blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics"
+  enable: true
+  title: "Our Tools"
+  description: |-
+      Most hackerspaces start the same way: the dream of having tools that are difficult to individually afford.
+      Feast your gaze upon our non-exhaustive list of tools that our members are happy to teach how to use.
+      A more detailed look at tools can be seen on the [tools page of our members wiki](https://wiki.pawprint.space/tools/).
   service_item:
     # service item loop
     - icon : ion-wrench #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
