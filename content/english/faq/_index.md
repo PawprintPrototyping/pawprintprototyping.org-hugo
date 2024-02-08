@@ -28,16 +28,16 @@ financed completely by **<span class="member-count">about 20</span> members** an
 To our members: thank you for your participation and continuing support!
 
 
-### Are donations to Pawprint tax deductable?
+### Are donations to Pawprint tax deductible?
 
 Pawprint is an educational California non-profit corporation with 501(c)3 tax exempt status, so
-Contributions to Pawprint Prototyping are **tax deductable** to the fullest extent permitted by law.
+Contributions to Pawprint Prototyping are **tax deductible** to the fullest extent permitted by law.
 Whether or not your donation is deductible depends on your exact tax situation, so please ask your
-CPA or tax preparer about these details. Please contact [cfo@pawprintprototyping.org](mailto:cfo@pawprintprototyping.org)
+CPA or tax agent about these details. Please contact [cfo@pawprintprototyping.org](mailto:cfo@pawprintprototyping.org)
 if you require documentation of your donation.
 
 
-### Are membership dues tax deductable?
+### Are membership dues tax deductible?
 
 Maybe - there are too many factors for a solid answer here, whether membership dues are deductible depends
 mainly on the amount of value you obtain from paying dues, and [a slew of other factors](https://www.irs.gov/publications/p526#en_US_2010_publink1000229659).  Please get in touch with your tax attorney to evaluate your situation
@@ -46,7 +46,7 @@ in the context of your relation with Pawprint as a dues-paying member.
 
 ### What are the benefits of being a member?
 
-Dues-paying members of Pawprint recieve a keycard to open the front door for 24/7 access to the space and
+Dues-paying members of Pawprint receive a keycard to open the front door for 24/7 access to the space and
 its tools, as well as voting rights for passing motions.
 
 
@@ -75,8 +75,8 @@ machine time.
 Pawprint generally operates as [a Do-ocracy](https://communitywiki.org/wiki/DoOcracy). If you think it'd be cool to build something, re-arrange the furniture, or fashion a new tools bench, you should feel empowered do it!  In particular, any change that takes less than an hour to undo, feel free to do it now and beg forgiveness later.  Responsibilities attach to people who **do** the work, rather than elected officials.  Some other guidelines for a functioning Do-ocracy:
 
  * __Be accountable__: if you've made a large change, it's good to be accountable to those impacted by that change.
-   Leave a note in Telegram, or use bluetape or a stickynote, to let people know you're responsible for the change.
- * __Get consensus__ for impactful changes:  If you want to make sure it's ok to make an impactful change, speak
+   Leave a note in Telegram, or use bluetape or a sticky note, to let people know you're responsible for the change.
+ * __Get consensus__ for impacting changes:  If you want to make sure it's OK to make an impactful change, speak
    to people who are most likely to be impacted.
  * __Be compassionate__: Changes can sometimes make others irritated. Be patient and compassionate and constructive
    in a discussion to arrive at an agreeable consensus.
