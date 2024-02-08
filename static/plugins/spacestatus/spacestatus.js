@@ -28,5 +28,5 @@ $(document).ready(function () {
     };
 
     update_spacestatus();
-    setInterval(update_spacestatus, 120000);
+    setInterval(update_spacestatus, 30000);
 });
