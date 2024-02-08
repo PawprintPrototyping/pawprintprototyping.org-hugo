@@ -56,7 +56,7 @@ sidebar = ["recent_posts", "taxonomy_category", "taxonomy_tags"]
 [params]
 logo = "images/logo.png"
 # Meta data
-description = "Pawprint Prototyping is a non-profit hackerspace in Santa Clara"
+description = "Pawprint Prototyping is a non-profit hackerspace in Santa Clara with furry flair"
 author = "Pawprint Prototyping"
 # Contact Information
 mobile = "(669) 696-7297"
@@ -130,12 +130,13 @@ weight = 4
 #weight = 6
 #name = "Pages"
 #hasChildren = true
-#
-#  [[Languages.en.menu.main]]
-#  parent = "Pages"
-#  name = "FAQ"
-#  URL = "faq"
-#
+
+[[Languages.en.menu.main]]
+name = "FAQ"
+URL = "/faq"
+weight = 5
+
+
 #  #[[Languages.en.menu.main]]
 #  #parent = "Pages"
 #  #name = "Pricing"
@@ -145,7 +146,6 @@ weight = 4
 name = "Bylaws"
 URL = "https://docs.google.com/document/d/e/2PACX-1vQey0X8PKE7g2b4NsSe7g2rSIxafAu0_vPJz4XHGAqJfV-Tm3pyX9J7ysbM9aepH8vc06TMxl00Epk4/pub"
 weight = 7
-
 
 
 [[Languages.en.menu.main]]
