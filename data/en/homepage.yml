@@ -86,9 +86,9 @@ funfacts:
   description : "None of them particularly useful"
   funfact_item:
     # funfacts item loop
-    - icon : "ion-ios-lightbulb-outline" #ionicon pack v2 : https://ionicons.com/v2/
-      name : "Ideas we've had"
-      count : "103"
+    - icon : "ion-ios-people" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "Members"
+      count : "0"
 
     # funfacts item loop
     - icon : "ion-hammer" #ionicon pack v2 : https://ionicons.com/v2/
