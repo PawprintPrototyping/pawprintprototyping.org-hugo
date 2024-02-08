@@ -1,6 +1,10 @@
---- title: "Frequently Asked Questions" description: "Questions, frequently
-asked, frequently answered." date: 2024-02-07T13:05:29+06:00 draft: false
-bg_image: "images/featue-bg.jpg" ---
+---
+title: "Frequently Asked Questions"
+description: "Questions, frequently asked, frequently answered."
+date: 2024-02-07T13:05:29+06:00 
+draft: false
+bg_image: "images/featue-bg.jpg"
+---
 
 ### What is a hackerspace?
 
@@ -9,9 +13,9 @@ organization where people with common interests in computers, machining,
 technology, science, digital art, and more can meet, socialize, and collaborate.
 Hackerspaces are more than just a place for tools, they're a place for building
 and fostering community, learning, and understanding of skills and technologies
-through knowledge sharing in the form of workshops, presentations, and lectures
-- a place for hackers come together to share resources and knowledge to build
-    and make things.
+through knowledge sharing in the form of workshops, presentations, and lectures - a 
+place for hackers come together to share resources and knowledge to build and 
+make things.
 
 
 ### What is Pawprint Prototyping?
@@ -22,8 +26,8 @@ apartment for one.  We all happen to be furries, and were excited about the
 prospect of a space 
 
 The non-profit behind Pawprint Prototyping operates as a board of 5 hackerspace
-members, and we are financed completely by **<span class="member-count">about
-20</span> members** and donations.
+members, and we are financed completely by **<span class="member-count">about 20</span>
+members** and donations.
 
 To our members: thank you for your participation and continuing support!
 
@@ -86,15 +90,13 @@ Responsibilities attach to people who **do** the work, rather than elected
 officials.  Some other guidelines for facilitating a functioning Do-ocracy:
 
  * __Be accountable__: if you've made a large change, it's good to be
- * accountable to those impacted by that change.
-     Leave a note in Telegram, or use bluetape or a sticky note, to let people
-     know you're responsible for the change.
+     accountable to those impacted by that change.   Leave a note in Telegram, 
+     or use bluetape or a sticky note, to let people know you're responsible 
+     for the change.
  * __Get consensus__ for impacting changes:  If you want to make sure it's OK to
- * make an impactful change, speak
-     to people who are most likely to be impacted.
+     make an impactful change, speak to people who are most likely to be impacted.
  * __Be compassionate__: Changes can sometimes make others irritated. Be patient
- * and compassionate and constructive
-     in a discussion to arrive at an agreeable consensus.
+     and constructive in a discussion to arrive at an agreeable consensus.
 
 Please also be mindful of equipment ownership.  Some equipment is owned by the
 space, but many tools are colocated by members.  Colocated tools can be
