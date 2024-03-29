@@ -28,13 +28,13 @@ about:
             <br>
             <div class='section-title'>
             </div>"
-  image : "images/wrapper-img.png"
+  image : "images/3dprinters-square.jpg"
 
 
 ######################### Portfolio ###############################
 portfolio:
   enable : true
-  bg_image : "images/featue-bg.jpg"
+  bg_image : "images/feature-bg.jpg"
   title : "OUR PROJECTS"
   content : "
             All members of Pawprint Prototyping have access to our
