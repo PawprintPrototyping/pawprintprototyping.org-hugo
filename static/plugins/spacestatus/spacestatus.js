@@ -12,8 +12,8 @@ const update_spacestatus_callback = function(data) {
         $("#spacestatus+a").html("Closed").prop("title", title);
     }
 
-    $(".ion-ios-people + .count").attr("data-count", data.sensors.total_member_count.value);
-    $(".member-count").html(data.sensors.total_member_count.value);
+    $(".ion-ios-people + .count").attr("data-count", data.sensors.total_member_count[0].value);
+    $(".member-count").html(data.sensors.total_member_count[0].value);
     
 };
 
