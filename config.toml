@@ -121,10 +121,10 @@ name = "Wiki"
 URL = "https://wiki.pawprint.space/"
 weight = 4
 
-#[[Languages.en.menu.main]]
-#name = "Blog"
-#URL = "blog"
-#weight = 5
+[[Languages.en.menu.main]]
+name = "Blog"
+URL = "blog"
+weight = 5
 
 #[[Languages.en.menu.main]]
 #weight = 6
