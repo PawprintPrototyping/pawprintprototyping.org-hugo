@@ -77,7 +77,7 @@ for each component of the game, and communications brokered using MQTT.  That de
 advantages: developing and debugging one particular component, like the code to enable targets, can be easily facilitated
 by publishing test messages on the fly.  Once the game expanded to needing a separate Pi to control the RGB matrix,
 separating that component over a network was super easy.  After each of the component services were written, all of the
-gameplay can be orchestrated by publishing to a few simple targets to kick everything into motion, and made the state
+gameplay can be orchestrated by publishing to a few simple topics to kick everything into motion, and made the state
 diagrams easy to understand and manage.
 
 <video src="/images/blog/2024/open-sauce/gameplay-1.mp4" controls="controls" class="img-responsive"></video>
