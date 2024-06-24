@@ -12,14 +12,14 @@ type: "post"
 ---
 
 June 15th marked Pawprint Prototyping's return to [OpenSauce](https://opensauce.live) - the whimsical convention
-for Science and Makers YouTubers, and brainchild of [William Osman](https://www.youtube.com/@williamosman).
+for Science and Maker YouTubers, and brainchild of [William Osman](https://www.youtube.com/@williamosman).
 
 A menagerie of members proudly presented these fine projects at our exhibitor table:
 
 * [The Badge!](#badge)
 * [Return of the ARM](#return-of-the-arm)
 * [Pirate Box Badge](#pirate-box-badge)
-* [Long Range Thermal Imaging](#long-range-thermal-imaging)
+* [Long Range Thermal Imaging Camera](#long-range-thermal-imaging-camera)
 * [Water Plants Game](#water-plants-game)
 
 ## Badge
@@ -67,7 +67,7 @@ chunky relays, the ring of a bell, the warm glow of a CRT terminal, beige paint 
 stack light to tie the whole thing together.
 
 The whole show is run by a pair of Raspberry Pi's and an embarrassing number of serial adapters.  One Raspberry Pi,
-close to the robot controller, runs the majority of the game logic, and a second was dedicated to the flip digits and
+close to the robot controller, runs the majority of the game logic. A second was dedicated to the flip digits and
 RGB matrix display, mostly due to limitations in driving that matrix quickly enough.  Communications between the targets
 happens all on the same RS485 bus, as do the communications to the flip digits.
 
@@ -83,8 +83,8 @@ diagrams easy to understand and manage.
 <video src="/images/blog/2024/open-sauce/gameplay-1.mp4" controls="controls" class="img-responsive"></video>
 
 After loading in everything Thursday, we spend most of Friday assembling the booth and making sure the ARM, as our most
-complicated assembly, worked flawlessly.  A few of our neighboring exhibitors played a few games Friday alongside us,
-and We even made a detailed run book this year, so if all of the boffins with arcane 90's robot controller knowledge
+complicated assembly, worked flawlessly.  A few of our neighboring exhibitors played a few games Friday alongside us.
+We even made a detailed run book this year, so if all of the boffins with arcane 90's robot controller knowledge
 were unable to make it Saturday, our other members could carry the torch.
 
 ### Tragedy (the first)
@@ -144,8 +144,8 @@ Last year in the course of learning more about our controller, I'd attempted to 
 on the controller, but after revisiting those backups I'm totally disheartened to learn that 1 of the 4 flash chip dumps
 is empty.
 
-If you know anyone with this era of robot arm controller, that could be instrumental in getting our project working
-again, please drop us an email here at info [at] pawprintprototyping.org.
+If you know anyone with this era of robot arm controller, it could be instrumental in getting our project working
+again. Please drop us an email at info [at] pawprintprototyping.org.
 
 
 ## Pirate Box Badge
@@ -156,7 +156,7 @@ This [#BadgeLife](https://defcon.social/tags/badgelife) entry for DEF CON, the w
 designed by Geo and hosts a wide variety of computer networking abilities.  It's also a cute fox with zero depth-perception.
 
 
-## Long Range Thermal Imaging
+## Long Range Thermal Imaging Camera
 
 <img class="img-responsive" src="/images/blog/2024/open-sauce/thermal-camera.jpg" title="This ITAR-restricted bundle of joy can see hot things from very far away">
 <img class="img-responsive" src="/images/blog/2024/open-sauce/thermal-camera-2.jpg" title="A transparent look at the fursuiting experience: yes, it's hot in there, and no, we can't see a thing in any spectrum.">
