@@ -166,7 +166,10 @@ by Geo to be controlled by a playstation game controller.  Are you hot or not?  
 
 ## Water Plants Game
 
-<img class="img-responsive" src="/images/blog/2024/open-sauce/water-plants.png" title="Water plants watering dude">
+<a href="https://doomsdaydingo.itch.io/water-plants"><img class="img-responsive" src="/images/blog/2024/open-sauce/water-plants.png" title="Water plants watering dude"></a>
 
-In this game by Pawprint member Dingo, help our friend get the chores of watering the plants around the water plant so
-they can get back to their favorite activity: napping.
+In this 2D platform-shooter by Pawprint member Dingo, help our friend get the chores of watering the plants around the water plant so
+they can get back to their favorite activity: napping.  You can [play Water Plants online in your desktop browser or download
+a build for your operating system by clicking here](https://doomsdaydingo.itch.io/water-plants).
+
+## Conclusion

@@ -7,7 +7,7 @@ bg_image: "images/blog/2024/paw-simon/banner.jpg"
 categories: ["Hackerspace News"]
 tags: ["Projects Showcase"]
 description: "A behind-the-scenes look at an interactive project we brought to show off at Further Confusion"
-draft: false
+draft: true
 type: "post"
 ---
 
@@ -26,5 +26,3 @@ meeting on the whiteboard, and landed on a giant game of "Simon-Says", blown up 
 
 
 <img class="img-responsive" src="/images/blog/2024/paw-simon/lol.jpg" alt="Cardboard mockup">
-
-
