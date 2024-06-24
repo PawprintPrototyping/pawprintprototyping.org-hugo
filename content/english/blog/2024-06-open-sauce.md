@@ -1,6 +1,6 @@
 ---
 title: "Pawprint Goes to OpenSauce (again!)"
-date: 2024-06-22
+date: 2024-06-24
 author: rechner
 image : "images/blog/blog-post-2.jpg"
 bg_image: "images/blog/2024/paw-simon/banner.jpg"
@@ -172,4 +172,4 @@ In this 2D platform-shooter by Pawprint member Dingo, help our friend get the ch
 they can get back to their favorite activity: napping.  You can [play Water Plants online in your desktop browser or download
 a build for your operating system by clicking here](https://doomsdaydingo.itch.io/water-plants).
 
-## Conclusion
+
