@@ -1,7 +1,7 @@
 ---
 title: "Pawprint Goes to OpenSauce (again!)"
 date: 2024-06-24
-author: rechner
+author: "Rechner"
 image : "images/blog/blog-post-2.jpg"
 bg_image: "images/blog/2024/paw-simon/banner.jpg"
 categories: ["Hackerspace News"]
@@ -18,6 +18,7 @@ A menagerie of members proudly presented these fine projects at our exhibitor ta
 
 * [The Badge!](#badge)
 * [Return of the ARM](#return-of-the-arm)
+* Legally Distinct Simon
 * [Pirate Box Badge](#pirate-box-badge)
 * [Long Range Thermal Imaging Camera](#long-range-thermal-imaging-camera)
 * [Water Plants Game](#water-plants-game)
@@ -147,6 +148,9 @@ is empty.
 If you know anyone with this era of robot arm controller, it could be instrumental in getting our project working
 again. Please drop us an email at info [at] pawprintprototyping.org.
 
+
+## Legally Distinct Simon
+<img class="img-responsive" src="/images/blog/2024/paw-simon/gameplay.jpg" title="">
 
 ## Pirate Box Badge
 
