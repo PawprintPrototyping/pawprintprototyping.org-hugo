@@ -1,5 +1,5 @@
 ---
-title: "Rechner Fox"
+title: "Rechner"
 email: "cto {at} pawprintprototyping {dot} org"
 photo: https://avatars.githubusercontent.com/u/659028?v=4
 image: https://avatars.githubusercontent.com/u/659028?v=4
