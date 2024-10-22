@@ -1,6 +1,10 @@
 ---
 title: "2024 09 Opulo Unpawxing"
 date: 2024-09-26T21:07:57-07:00
+image: images/blog/2024/opulo-unpawxing/00_box_arrived.jpg
+author: "Kay"
+categories: ["Hackerspace News"]
+tags: ["Electronics", "Tools"]
 draft: false
 ---
 # UnPAWxing Our Opulo V4
