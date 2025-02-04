@@ -5,7 +5,6 @@ draft: false
 bg_image: "images/blog/2024/gameboy/hero.jpg"
 layout: "single"
 ---
-<p>
 <style>
 ul {
    list-style-type: disc;
@@ -14,6 +13,10 @@ ul {
    font-size: 15px;
    font-family: roboto,sans-serif;
    margin: 10px;
+}
+
+section.section{
+  padding: 50px 0 !important;
 }
 </style>
 
