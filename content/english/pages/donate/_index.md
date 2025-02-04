@@ -17,12 +17,30 @@ ul {
 }
 </style>
 
-## Join the Movement: Support Pawprint Prototyping
+
+<div class="row">
+<div class="col-md-6">
+<p>
+
+## Join the Movement
 
 You're here because you're part of a community that refuses to accept the status quo. You're a maker, a creator, a 
 hacker – someone who sees the world as a canvas waiting to be reimagined, and who's not afraid to let their fur shine. 
 At Pawprint Prototyping, we're building a counterculture that empowers individuals to challenge the dominant narratives 
 to imagine a better future.
+</p>
+</div>
+
+<div class="col-md-6">
+
+<!-- Begin Give Lively Fundraising Widget -->
+<script>gl=document.createElement('script');gl.src='https://secure.givelively.org/widgets/simple_donation/totally-legit-agency.js?show_suggested_amount_buttons=true&show_in_honor_of=false&address_required=false&has_required_custom_question=null&suggested_donation_amounts[]=32&suggested_donation_amounts[]=52&suggested_donation_amounts[]=128&suggested_donation_amounts[]=255';document.getElementsByTagName('head')[0].appendChild(gl);</script><div id="give-lively-widget" class="gl-simple-donation-widget"></div>
+<!-- End Give Lively Fundraising Widget -->
+
+</div>
+</div>
+
+<p>
 
 ## Our Mission
 
@@ -52,6 +70,7 @@ donors, and allies.
 Here's three ways you can sustain our mission:
 
 1. **Contribute a single or recurring donation** with a credit, debit card, or [PayPal](https://www.paypal.com/donate/?hosted_button_id=KHRVZ4QL8BGF8) transaction.
+   Text `TLA` to 44-321 for a link to our donation portal on your phone.
 2. **Check your corporate match** - many companies match their employee's donation, doubling your impact.
    [Check if your company provides donation matching using your company's Benevity causes portal.](https://causes.benevity.org/causes/840-844428024)
 3. **Donate stocks or Cryptocurrency**:  Stocks or other asset donations benefits from up to 20% more value due to
@@ -59,3 +78,6 @@ Here's three ways you can sustain our mission:
    or contact us for more options.
 
 </p>
+
+
+
