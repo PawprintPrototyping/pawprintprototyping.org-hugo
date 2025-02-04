@@ -67,6 +67,11 @@ phone = "(669) 696-7297"
 contact_form_action = "https://formspree.io/f/mpzorqev" # contact form works with : https://formspree.io
 # multi-author support (if set to true, you must use an Array in the author field)
 multi_author = false
+# copyright
+copyright = """\
+Copyright &copy; 2025 Pawprint Prototyping | [A Totally Legit Venture](https://totallylegit.agency) | Some Rights Reserved<br>
+Pawprint Prototyping is a registered California 501(c)(3) non-profit.  EIN: 84-4428024
+"""
 
 # Preloader
 [params.preloader]
@@ -92,12 +97,6 @@ languageName = "En"
 languageCode = "en-us"
 contentDir = "content/english"
 weight = 1
-# copyright
-copyright = """\
-Copyright &copy; 2025 Pawprint Prototyping | [A Totally Legit Venture](https://totallylegit.agency) | Some Rights Reserved<br>
-Pawprint Prototyping is a registered California 501(c)(3) non-profit.  EIN: 84-4428024
-"""
-
 
 ######################### english navigation #############################
 # main menu
