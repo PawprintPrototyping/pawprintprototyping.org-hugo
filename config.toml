@@ -113,7 +113,7 @@ weight = 2
 
 [[Languages.en.menu.main]]
 name = "Donate"
-URL = "https://www.paypal.com/donate/?hosted_button_id=KHRVZ4QL8BGF8"
+URL = "/pages/donate"
 weight = 3
 
 [[Languages.en.menu.main]]
