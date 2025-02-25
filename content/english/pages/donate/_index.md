@@ -37,7 +37,7 @@ to imagine a better future.
 <div class="col-md-6">
 
 <!-- Begin Give Lively Fundraising Widget -->
-<script>gl=document.createElement('script');gl.src='https://secure.givelively.org/widgets/simple_donation/totally-legit-agency.js?show_suggested_amount_buttons=true&show_in_honor_of=false&address_required=false&has_required_custom_question=null&suggested_donation_amounts[]=32&suggested_donation_amounts[]=52&suggested_donation_amounts[]=128&suggested_donation_amounts[]=255';document.getElementsByTagName('head')[0].appendChild(gl);</script><div id="give-lively-widget" class="gl-simple-donation-widget"></div>
+<script>gl=document.createElement('script');gl.src='https://secure.givelively.org/widgets/simple_donation/totally-legit-agency.js?show_suggested_amount_buttons=true&show_in_honor_of=false&address_required=false&has_required_custom_question=null&suggested_donation_amounts[]=32&suggested_donation_amounts[]=64&suggested_donation_amounts[]=128&suggested_donation_amounts[]=256';document.getElementsByTagName('head')[0].appendChild(gl);</script><div id="give-lively-widget" class="gl-simple-donation-widget"></div>
 <!-- End Give Lively Fundraising Widget -->
 
 </div>
