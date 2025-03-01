@@ -25,12 +25,16 @@ section.section{
 <div class="col-md-6">
 <p>
 
-## Join the Movement
+## Our Mission: Hack the Planet! 
 
-You're here because you're part of a community that refuses to accept the status quo. You're a maker, a creator, a 
-hacker – someone who sees the world as a canvas waiting to be reimagined, and who's not afraid to let their fur shine. 
-At Pawprint Prototyping, we're building a counterculture that empowers individuals to challenge the dominant narratives 
-to imagine a better future.
+We're not just a hackerspace – we're a laboratory for creativity and innovation. Our members are the spark that ignites 
+the flame of progress, and our community is the fertile ground where ideas take root and grow. By supporting Pawprint
+Prototyping, you're investing in a movement that's dedicated to:
+
+* Fostering a culture of experimentation and risk-taking
+* Providing access to cutting-edge tools and resources
+* Amplifying marginalized voices and perspectives
+* Building a community that's inclusive, diverse, and vibrant
 </p>
 </div>
 
@@ -44,17 +48,6 @@ to imagine a better future.
 </div>
 
 <p>
-
-## Our Mission
-
-We're not just a hackerspace – we're a laboratory for creativity and innovation. Our members are the spark that ignites 
-the flame of progress, and our community is the fertile ground where ideas take root and grow. By supporting Pawprint
-Prototyping, you're investing in a movement that's dedicated to:
-
-* Fostering a culture of experimentation and risk-taking
-* Providing access to cutting-edge tools and resources
-* Amplifying marginalized voices and perspectives
-* Building a community that's inclusive, diverse, and vibrant
 
 ## Your Support Matters
 
@@ -70,16 +63,18 @@ Pawprint Prototyping is a registered California 501(c)(3) non-profit, and operat
 our members and supporters like you.  Donations are fully tax-deductible.  We're grateful for the support of our members, 
 donors, and allies.
 
-Here's three ways you can sustain our mission:
+<hr>
 
-1. **Contribute a single or recurring donation** with a credit, debit card, or [PayPal](https://www.paypal.com/donate/?hosted_button_id=KHRVZ4QL8BGF8) transaction.
+## Donate Cash 
+Using with a [credit, debit card, or PayPal](https://www.paypal.com/donate/?hosted_button_id=KHRVZ4QL8BGF8) transaction.
    Text `TLA` to 44-321 for a link to our donation portal on your phone.
-2. **Check your corporate match** - many companies match their employee's donation, doubling your impact.
+## Corporate Maching
+Many companies match their employee's donation, doubling your impact.
    [Check if your company provides donation matching using your company's Benevity causes portal.](https://causes.benevity.org/causes/840-844428024)
-3. **Donate stocks or Cryptocurrency**:  Stocks or other asset donations benefits from up to 20% more value due to
+## Donate Stocks or Cryptocurrency
+Stocks or other asset donations benefits from up to 20% more value due to
    capital gains tax savings.  You can donate these assets using [Endaoment](https://app.endaoment.org/orgs/84-4428024),
    or contact us for more options.
-
 </p>
 
 
