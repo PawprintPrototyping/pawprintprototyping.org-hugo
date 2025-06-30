@@ -143,7 +143,7 @@ weight = 5
 
 [[Languages.en.menu.main]]
 name = "Bylaws"
-URL = "https://docs.google.com/document/d/e/2PACX-1vQey0X8PKE7g2b4NsSe7g2rSIxafAu0_vPJz4XHGAqJfV-Tm3pyX9J7ysbM9aepH8vc06TMxl00Epk4/pub"
+URL = "/pages/bylaws"
 weight = 7
 
 
