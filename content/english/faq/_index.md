@@ -23,10 +23,10 @@ make things.
 Pawprint prototyping started the same way many hackerspaces do: as the dream of
 a couple of friends who wanted a laser cutter but didn't have room in their
 apartment for one.  We all happen to be furries, and were excited about the
-prospect of a space 
+prospect of a space where we could share the excitement of making with our community.
 
 The non-profit behind Pawprint Prototyping operates as a board of 5 hackerspace
-members, and we are financed completely by **<span class="member-count">about 20</span>
+members, and the organization is funded completely by **<span class="member-count">about 40</span>
 members** and donations.
 
 To our members: thank you for your participation and continuing support!
