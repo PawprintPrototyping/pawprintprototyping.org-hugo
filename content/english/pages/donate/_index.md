@@ -64,7 +64,7 @@ all. Your contribution will help us:
 * Upgrade our equipment and facilities to support the latest technologies and techniques
 * Host workshops, events, and exhibitions that showcase the work of our members and the broader maker community
 * Develop programs that promote diversity, equity, and inclusion in the maker movement
-* Provide scholarships and financial assistance to individuals who might not otherwise have access to our resources
+* Provide scholarships, computers, accessories, and financial assistance to individuals who might not otherwise have access to our resources
 
 Pawprint Prototyping is a registered California 501(c)(3) non-profit, and operates completely from the generosity of
 our members and supporters like you.  Donations are fully tax-deductible.  We're grateful for the support of our members, 
@@ -79,6 +79,7 @@ Here's three ways you can sustain our mission:
 3. **Donate stocks or Cryptocurrency**:  Stocks or other asset donations benefits from up to 20% more value due to
    capital gains tax savings.  You can donate these assets using [Endaoment](https://app.endaoment.org/orgs/84-4428024),
    or contact us for more options.
+4. **Donate computers and computer accessories**: Pawprint Prototyping has an equipment donation program that tries to match people in need with computers and computer accessories at low or no cost.  Call us at {{< param phone >}} to see if your donations will be accepted, and to arrange a time to drop it off.
 
 </p>
 
