@@ -1,0 +1,51 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+# Signed Canary Statement
+
+Totally Legit Agency, dba Pawprint Prototyping, positively confirms that the integrity of our system is sound:  all our
+infrastructure is in our control, we have not knowingly been compromised or suffered a data breach, we have not
+disclosed any private encryption keys, and we have not been forced to modify our system to allow access or information
+leakage to a third party.
+
+This canary will be re-signed on the following dates:
+
+ * May 1
+ * November 1
+
+We will include a link to a recent news article[1] in each update to establish that the signature was not pre-generated.
+
+## Frequently asked questions
+
+Q: Are you compromised by law enforcement?
+
+A: No. We have never permitted installation of any hardware or software monitoring on any system that we control;
+law enforcement has not taken our servers; does not, and has never had access to them.
+
+Q: Couldn't the government just make you say that?
+
+A: Forced speech is actually quite rare in the US legal context. It's usually only in cases of consumer protection
+where the government has been successful in compelling speech (e.g. forced cigarette warnings). Nevertheless, no they
+aren't forcing us to say anything.
+
+Q: Why does the new Canary not mention gag orders, FISA court orders, National Security Letters, etc?
+
+A: A Canary is supposed to signal important risk information to users, but there is also danger in signaling the wrong
+thing to users or leading to general fear and confusion for no good reason. This Canary is limited to significant
+events that could compromise the security of users.
+
+[1]:
+-----BEGIN PGP SIGNATURE-----
+
+iQGzBAEBCgAdFiEEEkY6ipZh+7mMFcXy+45JQy8u6cwFAmjwjswACgkQ+45JQy8u
+6czoeAv7Bs1dkC4FQGSnz9GjDJbaPJI8hllD8VQGQqkj3q3aLx51UKjqh4J5hDeP
+FDJXGAOXMZ2qIv0Py8uVXXebugjoBebI59QFrw982R7yKfXXP4zhaefj0byXokNL
+hjaNxVyJYu89b3tWoDc76a6SHGECTuC7Z9KEkW4ELChmrjNr7Ec4kB48pFsag47n
+0t8SVYTj4/ZFcws5xKRmyioZCa7Epd/eluOmiNps2EPi6sHFTcc3wVKEh2d+rGi5
+kLs7yZg4xc0rjrV1OIZ2i3IqjGS/pdmlewxND5Qv6RiFNvfGZDhD0F9XERuasxFZ
+pHIfAoQcuqIKbwf7q07SFOFy/rudc7kdOc+jU0Yhe4Xh8wuHbiG5kz28PTSSGcUj
+qLwjXyzhiLB69IPasgbSawGGd9A+1mdSKvTjU38pjcGZAl4V/gh5MsPCY9dszMXb
+iGcy9LCon2c6gjmZ25FbqbLfWkgVXvQiCceujFEWlwxZIi6PHRCvRVhyiwHEJD/4
+F8I+Yblj
+=HG6L
+-----END PGP SIGNATURE-----
