@@ -180,10 +180,10 @@ weight = 10
 #URL = "pricing"
 #weight = 4
 
-#[[Languages.en.menu.footer]]
-#name = "FAQ"
-#URL = "faq"
-#weight = 5
+[[Languages.en.menu.footer]]
+name = "GPG & Canary"
+URL = "pages/canary"
+weight = 5
 
 [[Languages.en.menu.footer]]
 name = "Contact Us"

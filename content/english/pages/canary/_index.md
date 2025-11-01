@@ -16,7 +16,7 @@ layout: "single"
 
 ## Verification instructions
 
-You should follow [these instructions to download our gpg key and verify the keyid](#). Then you may follow these steps to verify this statement:
+You should follow [these instructions to import our gpg key and verify the keyid](/pages/canary/keys.html). Then you may follow these steps to verify this statement:
 
 1. Download the signed [canary statement](/pages/canary/canary-statement-signed.txt)
 1. Then run this command in a terminal:
@@ -37,7 +37,7 @@ You should follow [these instructions to download our gpg key and verify the key
     Primary key fingerprint: 1246 3A8A 9661 FBB9 8C15 C5F2 FB8E 4943 2F2E E9CC
     ```
 
-You should make sure that it says "Good signature" in the output and confirm that the keyid matches the one you verified [[here earlier => network-security/certificates#complete-verification]]. If this text has been altered, then this information should not be trusted.
+You should make sure that it says "Good signature" in the output and confirm that the keyid matches.  If this text has been altered, then this information should not be trusted.
 
 Unless you have taken explicit steps to build a trust path to our GPG key, you will see a warning message similar to:
 
