@@ -34,18 +34,18 @@ A: A Canary is supposed to signal important risk information to users, but there
 thing to users or leading to general fear and confusion for no good reason. This Canary is limited to significant
 events that could compromise the security of users.
 
-[1]:
+[1]: https://www.npr.org/2025/11/01/nx-s1-5591497/snap-benefits-shutdown-grocery-buddy-help
 -----BEGIN PGP SIGNATURE-----
 
-iQGzBAEBCgAdFiEEEkY6ipZh+7mMFcXy+45JQy8u6cwFAmjwjswACgkQ+45JQy8u
-6czoeAv7Bs1dkC4FQGSnz9GjDJbaPJI8hllD8VQGQqkj3q3aLx51UKjqh4J5hDeP
-FDJXGAOXMZ2qIv0Py8uVXXebugjoBebI59QFrw982R7yKfXXP4zhaefj0byXokNL
-hjaNxVyJYu89b3tWoDc76a6SHGECTuC7Z9KEkW4ELChmrjNr7Ec4kB48pFsag47n
-0t8SVYTj4/ZFcws5xKRmyioZCa7Epd/eluOmiNps2EPi6sHFTcc3wVKEh2d+rGi5
-kLs7yZg4xc0rjrV1OIZ2i3IqjGS/pdmlewxND5Qv6RiFNvfGZDhD0F9XERuasxFZ
-pHIfAoQcuqIKbwf7q07SFOFy/rudc7kdOc+jU0Yhe4Xh8wuHbiG5kz28PTSSGcUj
-qLwjXyzhiLB69IPasgbSawGGd9A+1mdSKvTjU38pjcGZAl4V/gh5MsPCY9dszMXb
-iGcy9LCon2c6gjmZ25FbqbLfWkgVXvQiCceujFEWlwxZIi6PHRCvRVhyiwHEJD/4
-F8I+Yblj
-=HG6L
+iQGzBAEBCgAdFiEEEkY6ipZh+7mMFcXy+45JQy8u6cwFAmkGbewACgkQ+45JQy8u
+6cxU/wwAh0DlINz+OdSiCdXJMys7Kn6D8C4UKinyPiyzN1nfvxNb8TnNoy9JWf4O
+BmoA7H7wpzKPDi1H4WfJGibF8yRPK57U4/sFrQ/tlEptzoWiEvlYVKw4c3Wlil60
++7AOAIG8ld+ve5Yflhv4QZRYznfShvwE548gvAKflMHvnUaNbI+qEVv3gDHoLAdT
+XlvT4FkudLJf0q95346FcGBoi6W1+obpJUfVskmd+3fn2Dvp3WLFpkgWsE9aR751
+N/xmuMFlFJbQOyZUGXZ07uIsV/XWp+j9+jC6VjyE3LQZAkmqvYfwzZKsNOfzqVy8
+n9Mtrsei5eK98KfSRqMSD4I9QgVOvh2QjDU2qFPrKaMUboYg5zFYUUvWwHVECn6M
+RUE8VXJyQIaJWEhgoHdknNVNADGHk6W631DWFzl2NAcYBU+T2Hvv2lJb6c1w5SbQ
+MQIXyDCnS3ZI+TCnKzYnyzjEGJBU4nVAMjGVxrxnBVRqwLnP/N4xHH1KCLXQKFd0
+wAsL3yPM
+=rPbn
 -----END PGP SIGNATURE-----

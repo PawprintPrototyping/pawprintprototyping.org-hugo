@@ -31,4 +31,4 @@ A: A Canary is supposed to signal important risk information to users, but there
 thing to users or leading to general fear and confusion for no good reason. This Canary is limited to significant
 events that could compromise the security of users.
 
-[1]:
+[1]: https://www.npr.org/2025/11/01/nx-s1-5591497/snap-benefits-shutdown-grocery-buddy-help

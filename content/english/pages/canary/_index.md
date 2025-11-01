@@ -22,7 +22,7 @@ You should follow [these instructions to import our gpg key and verify the keyid
 1. Then run this command in a terminal:
 
 	```
-	gpg --auto-key-retrieve --verify canary-statement.txt
+	gpg --auto-key-retrieve --verify canary-statement-signed.txt
 	```
 
 1. You should get output that is similar to the following (note the date will change, based on when the canary statement was signed):
