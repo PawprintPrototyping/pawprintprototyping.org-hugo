@@ -18,7 +18,7 @@ On the terminal, import Pawprint's public OpenPGP key from a keyserver:
 The first line will import the key into your keyring, but there is no guarentee that you actually imported the right key. The `--fingerprint` command allows you to see the fingerprint of the key and actually confirm you imported the correct key. You should see output that contains this line:
 
 <pre>
-Key fingerprint = 4E07 9126 8F7C 67EA BE88  F1B0 3043 E2B7 139A 768E
+Key fingerprint = 1246 3A8A 9661 FBB9 8C15 C5F2 FB8E 4943 2F2E E9CC
 </pre>
 
 There is no particular reason that you should trust this key. You can see who has trusted it:
