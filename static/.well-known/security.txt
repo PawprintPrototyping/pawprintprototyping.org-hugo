@@ -1,0 +1,4 @@
+Contact: mailto:security@pawprintprototyping.org
+Expires: 2027-01-01T07:59:00.000Z
+Preferred-Languages: en
+Canonical: https://pawprintprototyping.org/.well-known/security.txt
