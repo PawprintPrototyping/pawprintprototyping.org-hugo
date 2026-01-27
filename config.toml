@@ -69,7 +69,8 @@ contact_form_action = "https://formspree.io/f/mpzorqev" # contact form works wit
 multi_author = false
 # copyright
 copyright = """\
-
+Copyright &copy; 2026 Pawprint Prototyping | [A Production of Totally Legit Agency](https://totallylegit.agency) | Some Rights Reserved<br>
+Pawprint Prototyping is a 501(c)(3) non-profit.  EIN: 84-4428024
 """
 
 # Preloader
