@@ -18,6 +18,7 @@ User-agent: ImagesiftBot
 User-agent: img2dataset
 User-agent: omgili
 User-agent: omgilibot
+User-agent: meta-externalagent
 User-agent: PerplexityBot
 User-agent: YouBot
 Disallow: /
