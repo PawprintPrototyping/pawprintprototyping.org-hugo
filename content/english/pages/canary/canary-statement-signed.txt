@@ -1,0 +1,51 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+# Signed Canary Statement
+
+Totally Legit Agency, dba Pawprint Prototyping, positively confirms that the integrity of our system is sound:  all our
+infrastructure is in our control, we have not knowingly been compromised or suffered a data breach, we have not
+disclosed any private encryption keys, and we have not been forced to modify our system to allow access or information
+leakage to a third party.
+
+This canary will be re-signed on the following dates:
+
+ * May 1
+ * November 1
+
+We will include a link to a recent news article[1] in each update to establish that the signature was not pre-generated.
+
+## Frequently asked questions
+
+Q: Are you compromised by law enforcement?
+
+A: No. We have never permitted installation of any hardware or software monitoring on any system that we control;
+law enforcement has not taken our servers; does not, and has never had access to them.
+
+Q: Couldn't the government just make you say that?
+
+A: Forced speech is actually quite rare in the US legal context. It's usually only in cases of consumer protection
+where the government has been successful in compelling speech (e.g. forced cigarette warnings). Nevertheless, no they
+aren't forcing us to say anything.
+
+Q: Why does the new Canary not mention gag orders, FISA court orders, National Security Letters, etc?
+
+A: A Canary is supposed to signal important risk information to users, but there is also danger in signaling the wrong
+thing to users or leading to general fear and confusion for no good reason. This Canary is limited to significant
+events that could compromise the security of users.
+
+[1]: https://www.npr.org/2025/11/01/nx-s1-5591497/snap-benefits-shutdown-grocery-buddy-help
+-----BEGIN PGP SIGNATURE-----
+
+iQGzBAEBCgAdFiEEEkY6ipZh+7mMFcXy+45JQy8u6cwFAmkGbewACgkQ+45JQy8u
+6cxU/wwAh0DlINz+OdSiCdXJMys7Kn6D8C4UKinyPiyzN1nfvxNb8TnNoy9JWf4O
+BmoA7H7wpzKPDi1H4WfJGibF8yRPK57U4/sFrQ/tlEptzoWiEvlYVKw4c3Wlil60
++7AOAIG8ld+ve5Yflhv4QZRYznfShvwE548gvAKflMHvnUaNbI+qEVv3gDHoLAdT
+XlvT4FkudLJf0q95346FcGBoi6W1+obpJUfVskmd+3fn2Dvp3WLFpkgWsE9aR751
+N/xmuMFlFJbQOyZUGXZ07uIsV/XWp+j9+jC6VjyE3LQZAkmqvYfwzZKsNOfzqVy8
+n9Mtrsei5eK98KfSRqMSD4I9QgVOvh2QjDU2qFPrKaMUboYg5zFYUUvWwHVECn6M
+RUE8VXJyQIaJWEhgoHdknNVNADGHk6W631DWFzl2NAcYBU+T2Hvv2lJb6c1w5SbQ
+MQIXyDCnS3ZI+TCnKzYnyzjEGJBU4nVAMjGVxrxnBVRqwLnP/N4xHH1KCLXQKFd0
+wAsL3yPM
+=rPbn
+-----END PGP SIGNATURE-----
