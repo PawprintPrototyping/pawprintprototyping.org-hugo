@@ -69,8 +69,8 @@ contact_form_action = "https://formspree.io/f/mpzorqev" # contact form works wit
 multi_author = false
 # copyright
 copyright = """\
-Copyright &copy; 2025 Pawprint Prototyping | [A Totally Legit Venture](https://totallylegit.agency) | Some Rights Reserved<br>
-Pawprint Prototyping is a registered California 501(c)(3) non-profit.  EIN: 84-4428024
+Copyright &copy; 2026 Pawprint Prototyping | [A Production of Totally Legit Agency](https://totallylegit.agency) | Some Rights Reserved<br>
+Pawprint Prototyping is a 501(c)(3) non-profit.  EIN: 84-4428024
 """
 
 # Preloader
@@ -111,19 +111,24 @@ URL = "/pages/calendar"
 weight = 2
 
 [[Languages.en.menu.main]]
+name = "Events"
+URL = "https://events.pawprintprototyping.org"
+weight = 3
+
+[[Languages.en.menu.main]]
 name = "Donate"
 URL = "/pages/donate"
-weight = 3
+weight = 4
 
 [[Languages.en.menu.main]]
 name = "Wiki"
 URL = "https://wiki.pawprint.space/"
-weight = 4
+weight = 5
 
 [[Languages.en.menu.main]]
 name = "Blog"
 URL = "blog"
-weight = 5
+weight = 6
 
 #[[Languages.en.menu.main]]
 #weight = 6
@@ -133,7 +138,7 @@ weight = 5
 [[Languages.en.menu.main]]
 name = "FAQ"
 URL = "/faq"
-weight = 5
+weight = 7
 
 
 #  #[[Languages.en.menu.main]]
@@ -160,15 +165,15 @@ URL = "https://wiki.pawprint.space/space_switch/"
 weight = 10
 
 # footer menu
-#[[Languages.en.menu.footer]]
-#name = "About"
-#URL = "about"
-#weight = 1
+[[Languages.en.menu.footer]]
+name = "About"
+URL = "about"
+weight = 1
 
-#[[Languages.en.menu.footer]]
-#name = "Project"
-#URL = "project"
-#weight = 2
+[[Languages.en.menu.footer]]
+name = "Governance"
+URL = "https://github.com/PawprintPrototyping/admin"
+weight = 2
 
 #[[Languages.en.menu.footer]]
 #name = "Service"
