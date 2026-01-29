@@ -117,7 +117,7 @@ weight = 3
 
 [[Languages.en.menu.main]]
 name = "Wiki"
-URL = "https://wiki.pawprint.space/"
+URL = "https://wikijs.pawprintprototyping.org/"
 weight = 4
 
 [[Languages.en.menu.main]]
@@ -156,7 +156,7 @@ weight = 9
 name = "Status"
 id = "spaceswitch"
 pre = '<span id="spacestatus" class=""></i></span>'
-URL = "https://wiki.pawprint.space/space_switch/"
+URL = "https://wikijs.pawprintprototyping.org/en/space-switch"
 weight = 10
 
 # footer menu
