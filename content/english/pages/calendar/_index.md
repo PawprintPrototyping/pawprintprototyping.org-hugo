@@ -44,6 +44,9 @@ layout: "single"
           },
           {
             googleCalendarId: 'c_qigb0skvbv9oqi06m52911jrkg@group.calendar.google.com'
+          },
+          {
+            googleCalendarId: 'c_5dfa9108dd981cfa8cc9561bf8fa21e7d17e3ba6bdadb1d6e0a06b1f6f681842@group.calendar.google.com'
           }
       ]
     });
