@@ -73,7 +73,7 @@ creatures that have evolved beyond biting and flighty instincts.
 Generally, everyone is welcome to attend any of the classes and member meetings
 advertised on our calendar.  Some classes may have a registration fee to cover
 time and/or materials.   Guests are also welcome for a tour or to use tools
-whenever the [space switch status](https://wiki.pawprint.space/space_switch/) is set to "Open".
+whenever the [space switch status](https://wikijs.pawprintprototyping.org/en/space-switch) is set to "Open".
 
 Guests who have been trained to operate tools requiring a safety certification
 to use may do so under supervision of a member, but due to the associated
