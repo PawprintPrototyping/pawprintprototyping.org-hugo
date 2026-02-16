@@ -22,12 +22,32 @@ about:
             people with an interest in computing or technology can
             gather to work on projects while sharing ideas, equipment,
             and knowledge. We're a registered 501(c)3 non-profit with
-            a mission geared towards fostering the local hacker
-            community and creative endeavors at large.
+            a mission geared towards educating and fostering the local
+            hacker community and creative endeavors at large.
             <br>
             <br>
             <div class='section-title'>
-            </div>"
+            <h2>
+            Come to Visit
+            </h2>
+            <p> We'd love to see you! </p>
+            </div>
+            <p></p>
+            <p>
+            Pawprint is a 100% volunteer run organization supported by
+            our members (if you'd like to join, 
+            <a href='#membership'>see below!</a>). Because of this we
+            don't keep regular business hours. If a member is present
+            at the space, we are open to the public! 
+            You will see a green box at the top of this page indicating 
+            we're open and ready to accept visitors. Because our schedule
+            is irregular and any member at the space may be leaving soon,
+            it is recommended  that you reach out to us before making the
+            journey.
+            <a href='https://t.me/+06eI4qQVzXJjYzAx'>Our Telegram group</a>
+            is a great place to get in touch!
+            </p>
+            "
   image : "images/3dprinters-square.jpg"
 
 
@@ -35,18 +55,32 @@ about:
 portfolio:
   enable : true
   bg_image : "images/feature-bg.jpg"
-  title : "OUR PROJECTS"
+  title : "CLASSES AND EDUCATION"
   content : "
-            All members of Pawprint Prototyping have access to our
-            wide variety of tools for use in whatever project their
-            heart desires.
+            If you're interested in learning about our tools or
+            processes at the space, our Open House or General
+            Body Meetings are great times to stop by. We also
+            have volunteer run classes on a wide variety of topics
+            that are always open to the public.  
+            <a href='/pages/calendar'> Check our calendar </a> for more
+            details!
+            <br>
+            <br>
 
+            <h2 class='section-subtitle'>
+            OUR PROJECTS
+            </h2>
+
+            <p>
+            Pawprint Prototyping has a wide variety of tools for use 
+            in whatever project your heart desires.
 
             From woodworking, to electronics, to
             automotive repair with this kind of power at your
             fingertips, the sky is the limit! Our tool catalogue
             only continues to grow, as does the diversity of our
-            members' creations.
+            creations.
+            </p>
             "
   button:
     enable : false
@@ -64,8 +98,13 @@ service:
 cta:
   enable : true
   bg_image : "images/call-to-action-bg.jpg"
-  title : "Become A Member"
+  title : "<div id='membership'>Become A Member</div>"
   content : "Like what we do? We'd love to have you onboard!
+            <br><br>
+            Member support is crucial to the continuing mission of Pawprint Prototyping.
+            Members support the space financially, help educate the greater Papwrint community
+            through knowledge sharing and classes, and generally pitch in to keep our space
+            running in tip-top shape!
             <br><br>
             <em>We accept membership applications at our general body
             meetings, which can be found on our <a style='color:lightblue;' href='/pages/calendar/'>calendar</a>.
