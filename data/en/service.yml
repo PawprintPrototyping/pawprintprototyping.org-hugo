@@ -41,9 +41,8 @@ service:
   enable: true
   title: "Our Tools"
   description: |-
-      Most hackerspaces start the same way: the dream of having tools that are difficult to individually afford.
       Feast your gaze upon our non-exhaustive list of tools that our members are happy to teach how to use.
-      A more detailed look at tools can be seen on the [tools page of our members wiki](https://wiki.pawprint.space/tools/).
+      A more detailed look at tools can be seen on the [tools page of our members wiki](https://wikijs.pawprintprototyping.org/en/tools).
   service_item:
     # service item loop
     - icon : ion-wrench #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
@@ -68,7 +67,7 @@ service:
     # service item loop
     - icon : ion-ios-monitor #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
       name: "TV Cart"
-      content: "Perfect for multimedia presentations and movie nights"
+      content: "Perfect for multimedia presentations and class demonstrations"
 
     # service item loop
     - icon : ion-ios-speedometer #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
