@@ -23,16 +23,6 @@ jobs:
       - name: Build
         run: hugo --minify
 
-      - name: Deploy onsite server
-        uses: easingthemes/ssh-deploy@v5.0.3
-        env:
-            SSH_PRIVATE_KEY: ${{ secrets.SSH_KEY }}
-            ARGS: "-rltgoDzvO --delete"
-            SOURCE: "public/"
-            REMOTE_HOST: ${{ secrets.REMOTE_HOST }}
-            REMOTE_USER: ${{ secrets.REMOTE_USER }}
-            TARGET: ${{ secrets.REMOTE_TARGET }}
-
       - name: Deploy to cloud server
         uses: easingthemes/ssh-deploy@v5.0.3
         env:
