@@ -166,8 +166,8 @@ weight = 10
 
 # footer menu
 [[Languages.en.menu.footer]]
-name = "About"
-URL = "about"
+name = "FAQ"
+URL = "faq"
 weight = 1
 
 [[Languages.en.menu.footer]]
