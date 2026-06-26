@@ -29,7 +29,7 @@ section.section{
 
 We're not just a hackerspace – we're a laboratory for creativity and innovation. Our members are the spark that ignites 
 the flame of progress, and our community is the fertile ground where ideas take root and grow. By supporting Pawprint
-Prototypine, you're investing in a movement that's dedicated to:
+Prototyping, you're investing in a movement that's dedicated to:
 
 * Fostering a culture of experimentation and risk-taking
 * Providing access to cutting-edge tools and resources
