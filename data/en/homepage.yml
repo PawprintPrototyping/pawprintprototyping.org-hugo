@@ -132,17 +132,17 @@ funfacts:
     # funfacts item loop
     - icon : "ion-hammer" #ionicon pack v2 : https://ionicons.com/v2/
       name : "Trips to Home Depot"
-      count : "121"
+      count : "745"
 
     # funfacts item loop
     - icon : "ion-ios-cart-outline" #ionicon pack v2 : https://ionicons.com/v2/
       name : "Trips to Costco"
-      count : "45"
+      count : "169"
 
     # funfacts item loop
     - icon : "ion-ios-wineglass-outline" #ionicon pack v2 : https://ionicons.com/v2/
       name : "Bottles of Champagne Sabered"
-      count : "6"
+      count : "7"
 
   testimonial_slider:
     # testimonial item loop
