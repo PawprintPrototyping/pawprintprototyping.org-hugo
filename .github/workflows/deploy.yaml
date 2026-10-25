@@ -4,12 +4,21 @@ on:
   push:
     branches:
       - master
+  workflow_dispatch:
+
+# Production deploys serialize across every ref; cancelling mid-upload would leave a half-written deploy directory behind.
+concurrency:
+  group: bunny-sites
+  cancel-in-progress: false
        
 jobs:
   deploy:
-    runs-on: ubuntu-22.04
+    runs-on: ubuntu-26.04
+    permissions:
+      contents: read
+      deployments: write # records the deploy in the repo's Environments
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7
         with:
           submodules: true  # Fetch Hugo themes (true OR recursive)
           fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
@@ -22,9 +31,15 @@ jobs:
 
       - name: Build
         run: hugo --minify
+      
+      - uses: BunnyWay/actions/deploy-site@deploy-site_0.1.0
+        with:
+          site: "pawprintprototyping-org"
+          directory: "public"
+          api_key: ${{ secrets.BUNNYNET_API_KEY }}
 
       - name: Deploy to cloud server
-        uses: easingthemes/ssh-deploy@v5.0.3
+        uses: easingthemes/ssh-deploy@v6.0.1
         env:
             SSH_PRIVATE_KEY: ${{ secrets.PROD_SSH_KEY }}
             ARGS: "-rltgoDzvO --delete"
