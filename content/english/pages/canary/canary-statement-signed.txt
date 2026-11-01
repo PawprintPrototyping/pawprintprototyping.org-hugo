@@ -34,18 +34,18 @@ A: A Canary is supposed to signal important risk information to users, but there
 thing to users or leading to general fear and confusion for no good reason. This Canary is limited to significant
 events that could compromise the security of users.
 
-[1]: https://www.npr.org/2026/05/09/g-s1-121307/cdc-says-threat-of-widespread-outbreak-of-hantavirus-remains-low
+[1]: https://apnews.com/article/swift-observatory-nasa-telescope-e890935df7f468048594286566a96357
 -----BEGIN PGP SIGNATURE-----
 
-iQGzBAEBCgAdFiEEEkY6ipZh+7mMFcXy+45JQy8u6cwFAmoA7jwACgkQ+45JQy8u
-6czk1gv7B9k0gt+BFrJtf2IPEzTb8u6GRlZCC7B60ZC1FIe0BxhcatNPgZhpXVZu
-V4f8oDwYy0PooIv+UDZYrJnR4VPP/GqvvJdTQXhmxrBSvaqPe2t7cqyov6iEXU9K
-inpZp1wSgPL7Ua1x12UFWkCmepTQaWFrFx3dFRmnW4ubN3rmH2x4Qu9WCZ73H/xe
-G8Areqn6raoNL1OhNcr3D3AG7EpBoSIsUfmIHHeqUraeslI1CMjrVE1jKOx05utD
-Lk/ztu9TyVVG170fp4UYHoXGGGvkgzdINg9y0NiyL1O2exs90gNsi6AkkPyh9gjt
-vs1RrWiwNEtDYuG3j+93gjGZZgBS2ukE+QBX0y9QFM1HF47kE6KlKKEAotDWaYGQ
-eoQKh00EyyGqStS8VMBcvQI5T/H3K8C1Sz1t+jEdRwiacqiBNxxvhcQVLVwc8m1+
-evS6UVo5D0Nk2dfOPzkrE8aGL7OkJhoNnLL1DUnf4kANVkk4vfeDubJPaW2ib3F9
-SLQd7QD3
-=yQJD
+iQGzBAEBCgAdFiEEEkY6ipZh+7mMFcXy+45JQy8u6cwFAmrm/xgACgkQ+45JQy8u
+6czxlQv/XdXY56fRWnjcMSjwbS0gugMFB2uNWK+GBHeP5nXO+y/12JG43tO1BXQR
+t3pIAI2aDlc5JN1bMdxNksNiRD83j+DDMB5EGPDn6MBEylhByD6XEdWeFffzdeEG
+1m8s5fk9DKtuapax2VZ5WueQDLRH8ntUX/hIppYvNlF5MVmwaQLVcdFo23uPTHTr
+24CbFC5avw8iRvr/sxhvs1+CYlADewHbWK5z2OG5Qaktueq5ogzN5dOKgah55YVL
+HcK9x3cobBIeIY9n5oDJCyrREZwHPVDu0fMcD19v6daz0WbENmo6n0JUdim3dRie
+ZJc+StRjQbOEbzizNJquRHilQt0GSKATzaWBtAZyktprDWQURSfNKC7IUp+kuFMt
+EhsoBuXSqB/4MdZ2qqGO9dS2+hztpGFzngDAMskZ/riodFd4YsTJ0eJY4rUCFr9/
+D0qu1qOZ/LHD556db953O+bgaJCPIxX+Q6IEeKcm9GRIkCzISNVyqrbZ0U9i2HRb
+7W3h4+AT
+=gREd
 -----END PGP SIGNATURE-----
