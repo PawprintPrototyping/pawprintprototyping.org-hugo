@@ -32,7 +32,7 @@ jobs:
       - name: Build
         run: hugo --minify
       
-      - uses: BunnyWay/actions/deploy-site@deploy-site_0.1.0
+      - uses: BunnyWay/actions/deploy-site@deploy-site_0.1.2
         with:
           site: "pawprintprototyping-org"
           directory: "public"
