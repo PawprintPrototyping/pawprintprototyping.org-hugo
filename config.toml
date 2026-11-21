@@ -175,22 +175,17 @@ name = "Governance"
 URL = "https://github.com/PawprintPrototyping/admin"
 weight = 2
 
-#[[Languages.en.menu.footer]]
-#name = "Service"
-#URL = "service"
-#weight = 3
-
-#[[Languages.en.menu.footer]]
-#name = "Pricing"
-#URL = "pricing"
-#weight = 4
+[[Languages.en.menu.footer]]
+name = "GitHub"
+URL = "https://github.com/PawprintPrototyping"
+weight = 3
 
 [[Languages.en.menu.footer]]
 name = "GPG & Canary"
 URL = "pages/canary"
-weight = 5
+weight = 4
 
 [[Languages.en.menu.footer]]
 name = "Contact Us"
 URL = "contact"
-weight = 6
+weight = 5
