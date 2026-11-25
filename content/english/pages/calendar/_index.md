@@ -26,6 +26,7 @@ layout: "single"
   </style>
 
 <!-- 
+<script src='https://cdn.jsdelivr.net/npm/dompurify@3.5.0/dist/purify.min.js'></script>
 <link href='https://cdn.jsdelivr.net/npm/fullcalendar@7.1.5/skeleton.css' rel='stylesheet' />
 <link href='https://cdn.jsdelivr.net/npm/fullcalendar@7.1.5/themes/classic/theme.css' rel='stylesheet' />
 <link href='https://cdn.jsdelivr.net/npm/fullcalendar@7.1.5/themes/classic/palette.css' rel='stylesheet' />
@@ -42,6 +43,7 @@ layout: "single"
 <script src='/plugins/calendar/fullcalendar@7.1.5/themes/classic/global.min.js'></script>
 <script src='/plugins/calendar/fullcalendar@7.1.5/google-calendar/global.min.js'></script>
 <script src='/plugins/calendar/ical.es5.min.cjs'></script>
+<script src='/plugins/calendar/dompurify@3.5.0/purify.min.js'></script>
 <script src='/plugins/calendar/fullcalendar@7.1.5/icalendar/global.min.js'></script>
 <script>
   document.addEventListener('DOMContentLoaded', function() {
@@ -68,10 +70,10 @@ layout: "single"
         if (ev.end && !ev.allDay) when += ' \u2013 ' + ev.end.toLocaleString([], { timeStyle: 'short' });
         dlg.querySelector('.when').textContent = when;
         dlg.querySelector('.where').textContent = props.location || '';
-        // Descriptions come from our own Google calendars and may contain HTML.
+        // Descriptions may contain HTML; sanitize before inserting.
         var desc = props.description || '';
         if (!/<[a-z][\s\S]*>/i.test(desc)) desc = desc.replace(/\n/g, '<br>'); // plain text
-        dlg.querySelector('.description').innerHTML = desc;
+        dlg.querySelector('.description').innerHTML = DOMPurify.sanitize(desc);
         dlg.showModal();
       },
       eventSources: [
