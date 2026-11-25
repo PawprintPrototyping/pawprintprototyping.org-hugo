@@ -16,15 +16,15 @@ layout: "single"
   </style>
 
 <!-- 
-<script src='https://cdn.jsdelivr.net/npm/fullcalendar@6.1.20/index.global.min.js'></script>
-<script src='https://cdn.jsdelivr.net/npm/@fullcalendar/google-calendar@6.1.20/index.global.min.js'></script>
+<script src='https://cdn.jsdelivr.net/npm/fullcalendar@6.1.22/index.global.min.js'></script>
+<script src='https://cdn.jsdelivr.net/npm/@fullcalendar/google-calendar@6.1.22/index.global.min.js'></script>
 <script src='https://github.com/mozilla-comm/ical.js/releases/download/v2.2.1/ical.es5.min.cjs'></script>
-<script src='https://cdn.jsdelivr.net/npm/@fullcalendar/icalendar@6.1.20/index.global.min.js'></script>
+<script src='https://cdn.jsdelivr.net/npm/@fullcalendar/icalendar@6.1.22/index.global.min.js'></script>
 -->
-<script src='/plugins/calendar/fullcalendar@6.1.20/index.global.min.js'></script>
-<script src='/plugins/calendar/fullcalendar@6.1.20/google-calendar/index.global.min.js'></script>
+<script src='/plugins/calendar/fullcalendar@6.1.22/index.global.min.js'></script>
+<script src='/plugins/calendar/fullcalendar@6.1.22/google-calendar/index.global.min.js'></script>
 <script src='/plugins/calendar/ical.es5.min.cjs'></script>
-<script src='/plugins/calendar/fullcalendar@6.1.20/icalendar/index.global.min.js'></script>
+<script src='/plugins/calendar/fullcalendar@6.1.22/icalendar/index.global.min.js'></script>
 
 <script>
   document.addEventListener('DOMContentLoaded', function() {
